@@ -1,0 +1,1 @@
+The code, anomalous_purchases.py in the src folder, was written in python. The only modules it requires are json, sys, math, and time. These modules most likely do not need to be downloaded, as they are standard python modules. 
